@@ -184,10 +184,10 @@ public class Paddle : MonoBehaviour
  ## Output:
 ### Ping Pong Game
  ![op](./arvr1.png)
-### Right Player Wins
+### Left Player Wins
  ![op](./arvr2.png)
  ![op](./arvr5.png)
-### Left Player Wins
+### Right Player Wins
  ![op](./arvr4wi.png)
  ![op](./arvr6.png)
  ## Result:
