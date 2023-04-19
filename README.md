@@ -31,6 +31,10 @@ In PaddleRight (Negative button - down and positive buttom - up) and paddleLeft(
  After completing, to move the ball, in the ball inspector give the value for speed
  
  ## Program:
+ ```
+ Developed By : Sowmiya N
+ Register No : 212221230106
+ ```
  ### GameManager :
  ```
  using System.Collections;
