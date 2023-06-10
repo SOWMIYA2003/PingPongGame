@@ -187,12 +187,13 @@ public class Paddle : MonoBehaviour
 ```
  ## Output:
 ### Ping Pong Game
- ![op](./arvr1.png)
+![ZA3](https://github.com/SOWMIYA2003/PingPongGame/assets/93427443/38be78dc-ef42-4358-bdd9-b313038dea66)
 ### Left Player Wins
- ![op](./arvr2.png)
- ![op](./arvr5.png)
+![ZA2](https://github.com/SOWMIYA2003/PingPongGame/assets/93427443/d9977ab6-6b4c-4261-9b57-667dd401bd92)
+
 ### Right Player Wins
- ![op](./arvr4wi.png)
- ![op](./arvr6.png)
+![ZA1](https://github.com/SOWMIYA2003/PingPongGame/assets/93427443/5cf934dc-9769-4da9-8f02-24a4c949d266)
  ## Result:
 A ping pong game using C# program is developed in unity successfully.
+
+
